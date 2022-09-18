@@ -27,7 +27,11 @@ header {
 header div {
   width: 120px;
   margin: auto;
-  background-image: linear-gradient(90deg, #c91842 0%, #5cc2e2 100%);
+  background-image: linear-gradient(
+    90deg,
+    #C91842 0%,
+    #5CC2E2 100%
+  );
   border-radius: 50%;
   display: flex;
   padding: 4px;
@@ -53,7 +57,11 @@ main {
 section {
   color: white;
 
-  background-image: linear-gradient(90deg, #c91842 0%, #5cc2e2 100%);
+  background-image: linear-gradient(
+    90deg,
+    #C91842 0%,
+    #5CC2E2 100%
+  );
   padding-top: 4px;
   border-radius: 10px;
 }
@@ -78,7 +86,7 @@ section p {
 section ul {
   display: flex;
   gap: 16px;
-  margin-top: 24px;
+  margin-top: 14px;
 }
 
 .films-list img {
@@ -91,8 +99,8 @@ section ul {
   border-radius: 8px;
 }
 
-.social-list svg {
-  color: white;
+.social-list svg{
+  color: white
 }
 
 /*animation*/
