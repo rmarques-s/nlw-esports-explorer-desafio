@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Desaio proposto pela Rocketseat ao final da Next Level Week eSports.
+Desafio proposto pela Rocketseat ao final da Next Level Week eSports.
 
 📎 [Clique aqui para acessar o projeto](https://rmarques-s.github.io/nlw-esports-explorer-desafio)
 
